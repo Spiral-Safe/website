@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spiral Safe</title>
+    <link>/</link>
+    <description>Recent content on Spiral Safe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Oct 2023 22:56:11 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Techstack</title>
+      <link>/posts/techstack/</link>
+      <pubDate>Sun, 08 Oct 2023 22:56:11 -0400</pubDate>
+      
+      <guid>/posts/techstack/</guid>
+      <description>Our solution is built on a robust technical stack, including:
+W3C WebAuthN for authentication.
+HashiCorp Vault for secure key management.
+Solana chain for transaction processing.
+Backend development in Golang and Nodejs.
+Containerization using Docker.</description>
+      <content>&lt;p&gt;Our solution is built on a robust technical stack, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W3C WebAuthN for authentication.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;HashiCorp Vault for secure key management.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Solana chain for transaction processing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Backend development in Golang and Nodejs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Containerization using Docker.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Solution</title>
+      <link>/posts/solution/</link>
+      <pubDate>Sun, 08 Oct 2023 22:55:46 -0400</pubDate>
+      
+      <guid>/posts/solution/</guid>
+      <description>Spiral Safe introduces a modern approach to this problem. We offer a semi-custodial solution that integrates natively with all browsers, utilizing biometrics, FaceID, and other device-supported authentication methods. At the heart of our solution is a secure vault storage system that ensures private keys are never exposed. Transactions are signed on-the-fly by the vault, only after authenticating the user through their device&amp;rsquo;s biometric or other authentication methods.
+Our solution is further bolstered by a plugin we&amp;rsquo;ve developed that integrates seamlessly with HashiCorp Vault.</description>
+      <content>&lt;p&gt;Spiral Safe introduces a modern approach to this problem. We offer a semi-custodial solution that integrates natively with all browsers, utilizing biometrics, FaceID, and other device-supported authentication methods. At the heart of our solution is a secure vault storage system that ensures private keys are never exposed. Transactions are signed on-the-fly by the vault, only after authenticating the user through their device&amp;rsquo;s biometric or other authentication methods.&lt;/p&gt;
+&lt;p&gt;Our solution is further bolstered by a plugin we&amp;rsquo;ve developed that integrates seamlessly with HashiCorp Vault. This plugin facilitates client registration and signs transactions on their behalf. While the core code is open-sourced, we&amp;rsquo;ve also introduced a service layer that allows businesses to integrate these functionalities with ease.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Problem</title>
+      <link>/posts/problem/</link>
+      <pubDate>Sun, 08 Oct 2023 22:55:35 -0400</pubDate>
+      
+      <guid>/posts/problem/</guid>
+      <description>The current landscape of web3 onboarding is fraught with complications. Most users access the web through phone browsers, which aren&amp;rsquo;t natively integrated with public chains. Existing solutions necessitate installing extensions, secondary wallets, or in-wallet browsers. Users are often overwhelmed by the intricacies of seed phrase security, and the choice between trusting a centralized entity or navigating the complexities of decentralized seed phrases. Furthermore, while there are attempts to produce phones with integrated enclaves, hardware adoption presents its own set of challenges.</description>
+      <content>&lt;p&gt;The current landscape of web3 onboarding is fraught with complications. Most users access the web through phone browsers, which aren&amp;rsquo;t natively integrated with public chains. Existing solutions necessitate installing extensions, secondary wallets, or in-wallet browsers. Users are often overwhelmed by the intricacies of seed phrase security, and the choice between trusting a centralized entity or navigating the complexities of decentralized seed phrases. Furthermore, while there are attempts to produce phones with integrated enclaves, hardware adoption presents its own set of challenges.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/posts/introduction/</link>
+      <pubDate>Sun, 08 Oct 2023 22:50:42 -0400</pubDate>
+      
+      <guid>/posts/introduction/</guid>
+      <description>In the rapidly evolving landscape of decentralized web (web3), onboarding users remains a significant challenge. Spiral Safe aims to bridge the gap between the traditional internet user and the decentralized web. Our mission is to provide a seamless, secure, and user-friendly solution, ensuring that the transition to web3 is as smooth as possible.</description>
+      <content>&lt;p&gt;In the rapidly evolving landscape of decentralized web (web3), onboarding users remains a significant challenge. Spiral Safe aims to bridge the gap between the traditional internet user and the decentralized web. Our mission is to provide a seamless, secure, and user-friendly solution, ensuring that the transition to web3 is as smooth as possible.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
